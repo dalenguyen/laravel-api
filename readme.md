@@ -50,3 +50,5 @@ because it's only api. Don't **forget** to start `mysql` server, if you use `mys
 - Clone or download [angular2](https://github.com/dalenguyen/angular2-laravel) and run this app. You will see data will load from this server to your `angluar` app.
 
 Enjoy !
+
+This project is based on https://github.com/eliyas5044/angular-laravel
